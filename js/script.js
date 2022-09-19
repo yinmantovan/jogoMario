@@ -40,7 +40,7 @@ const loopGame = setInterval(() =>{
     mario.style.marginLeft = "45px";
     
     clearInterval(loopGame)
-}
+    }
 }, 10);
 
 //funcao de pulo
